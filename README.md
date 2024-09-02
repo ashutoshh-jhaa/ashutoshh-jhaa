@@ -10,8 +10,8 @@
 </a>
 
 - 🔭 I’m currently working on **Web designing and development**
-- 🌱 I’m currently learning **Javascript**
-- 💬 Ask me about **Webdev**
+- 🌱 I’m currently learning **NodeJS**
+- 💬 Ask me about **Nothing**
 - 📫 How to reach me **ashutoshh.dev@gmail.com**
 
 ### 🛠 &nbsp;Tech Stack
