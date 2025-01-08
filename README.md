@@ -34,7 +34,7 @@
 ![ashutosh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshh-jhaa&show_icons=true&theme=midnight-purple&locale=en&layout=compact)
 
 ### 🔥 Streak
-![ashutoh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshh-jhaa&theme=vision-friendly-dark)
+![ashutoh's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashutoshh-jhaa&theme=highContrast)
 
 
 
